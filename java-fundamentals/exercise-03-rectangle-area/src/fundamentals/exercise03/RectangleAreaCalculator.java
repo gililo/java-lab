@@ -1,4 +1,4 @@
-package exercise03;
+package fundamentals.exercise03;
 
 public class RectangleAreaCalculator {
     public double calculateArea(double baseLength, double height) {

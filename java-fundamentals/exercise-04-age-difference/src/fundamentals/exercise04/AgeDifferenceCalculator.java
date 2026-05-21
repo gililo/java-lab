@@ -1,4 +1,4 @@
-package exercise04;
+package fundamentals.exercise04;
 
 public class AgeDifferenceCalculator {
     public int calculateAgeDifference(int ageFirst, int ageSecond) {
