@@ -1,6 +1,4 @@
-package exercicio03;
-
-import exercise02.SquareAreaCalculator;
+package exercise03;
 
 import java.util.Scanner;
 
