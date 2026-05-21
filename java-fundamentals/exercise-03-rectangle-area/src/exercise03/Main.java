@@ -17,5 +17,7 @@ public class Main {
         double area = calculator.calculateArea(baseLength, height);
 
         System.out.println("The area of the rectangle is: " + area);
+
+        input.close();
     }
 }
