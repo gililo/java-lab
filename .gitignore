@@ -1,0 +1,31 @@
+### IntelliJ IDEA ###
+out/
+!java-fundamentals/exercise-01-age-calculator/src/main/**/out/
+!java-fundamentals/exercise-01-age-calculator/src/test/**/out/
+.kotlin
+.idea
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!java-fundamentals/exercise-01-age-calculator/src/main/**/bin/
+!java-fundamentals/exercise-01-age-calculator/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
